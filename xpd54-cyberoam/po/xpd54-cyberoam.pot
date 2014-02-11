@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-11 18:55+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/ui/AboutXpd54CyberoamDialog.ui.h:1
+msgid "2014 .Ravi Prakash"
+msgstr ""
+
+#: ../data/ui/AboutXpd54CyberoamDialog.ui.h:2
+msgid "GPL"
+msgstr ""
+
+#. gtk.timeout_add((60*1000, test.my_timer)
+#: ../xpd54-cyberoam.desktop.in.h:1 ../data/ui/Xpd54CyberoamWindow.ui.h:1
+msgid "Xpd54 Cyberoam"
+msgstr ""
+
+#: ../xpd54-cyberoam.desktop.in.h:2
+msgid "Xpd54Cyberoam application"
+msgstr ""
+
+#: ../data/ui/PreferencesXpd54CyberoamDialog.ui.h:1
+msgid "Xpd54 Cyberoam Preferences"
+msgstr ""
+
+#: ../data/ui/PreferencesXpd54CyberoamDialog.ui.h:2
+msgid "_Example entry:"
+msgstr ""
+
+#: ../xpd54_cyberoam/__init__.py:23
+msgid "Show debug messages (-vv debugs xpd54_cyberoam_lib also)"
+msgstr ""
+
+#: ../data/ui/Xpd54CyberoamWindow.ui.h:2
+msgid "_File"
+msgstr ""
+
+#: ../data/ui/Xpd54CyberoamWindow.ui.h:3
+msgid "_Edit"
+msgstr ""
+
+#: ../data/ui/Xpd54CyberoamWindow.ui.h:4
+msgid "_View"
+msgstr ""
+
+#: ../data/ui/Xpd54CyberoamWindow.ui.h:5
+msgid "_Help"
+msgstr ""
+
+#: ../data/ui/Xpd54CyberoamWindow.ui.h:6
+msgid "Contents"
+msgstr ""
+
+#: ../data/ui/Xpd54CyberoamWindow.ui.h:7
+msgid "Login"
+msgstr ""
+
+#: ../data/ui/Xpd54CyberoamWindow.ui.h:8
+msgid "Logout"
+msgstr ""
+
+#: ../data/ui/Xpd54CyberoamWindow.ui.h:9
+msgid "Delete Passwd"
+msgstr ""
+
+#: ../data/ui/Xpd54CyberoamWindow.ui.h:10
+msgid "Reset"
+msgstr ""
+
+#: ../data/ui/Xpd54CyberoamWindow.ui.h:11
+msgid "<big><b>STATUS</b></big>"
+msgstr ""

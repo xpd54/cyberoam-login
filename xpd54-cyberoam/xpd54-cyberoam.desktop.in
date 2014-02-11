@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Xpd54 Cyberoam
+_Comment=Xpd54Cyberoam application
+Categories=GNOME;Utility;
+Exec=xpd54-cyberoam
+Icon=/usr/share/xpd54-cyberoam/media/xpd54-cyberoam.svg
+Terminal=false
+Type=Application

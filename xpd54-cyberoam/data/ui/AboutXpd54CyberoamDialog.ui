@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <!-- interface-requires about_xpd54_cyberoam_dialog 1.0 -->
+  <!-- interface-requires gtk+ 3.0 -->
+  <object class="AboutXpd54CyberoamDialog" id="about_xpd54_cyberoam_dialog">
+    <property name="can_focus">False</property>
+    <property name="border_width">5</property>
+    <property name="icon">../media/xpd54-cyberoam.svg</property>
+    <property name="type_hint">normal</property>
+    <property name="program_name">Xpd54 Cyberoam</property>
+    <property name="version">v.1</property>
+    <property name="copyright" translatable="yes">2014 .Ravi Prakash</property>
+    <property name="website">https://github.com/xpd54</property>
+    <property name="license" translatable="yes">GPL</property>
+    <property name="authors">Ravi Prakash &lt;vickyravi17@gmail.com&gt;</property>
+    <property name="logo">../media/xpd54-cyberoam.svg</property>
+    <property name="license_type">gpl-3-0</property>
+    <child internal-child="vbox">
+      <object class="GtkBox" id="dialog-vbox1">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="orientation">vertical</property>
+        <property name="spacing">2</property>
+        <child internal-child="action_area">
+          <object class="GtkButtonBox" id="dialog-action_area1">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="layout_style">end</property>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="pack_type">end</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <placeholder/>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>

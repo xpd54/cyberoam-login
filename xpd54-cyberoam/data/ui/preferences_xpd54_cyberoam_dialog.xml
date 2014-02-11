@@ -1,0 +1,9 @@
+<glade-catalog name="preferences_xpd54_cyberoam_dialog" domain="glade-3" 
+               depends="gtk+" version="1.0">
+  <glade-widget-classes>
+    <glade-widget-class title="Xpd54 Cyberoam Preferences Dialog" name="PreferencesXpd54CyberoamDialog" 
+                        generic-name="PreferenceXpd54CyberoamDialog" parent="GtkDialog"
+                        icon-name="widget-gtk-dialog"/>
+  </glade-widget-classes>
+
+</glade-catalog>

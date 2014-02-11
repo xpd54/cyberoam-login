@@ -1,0 +1,3 @@
+project = xpd54-cyberoam
+version = 12.04
+template = ubuntu-application

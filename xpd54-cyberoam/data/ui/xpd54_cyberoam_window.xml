@@ -1,0 +1,8 @@
+<glade-catalog name="xpd54_cyberoam_window" domain="glade-3" 
+               depends="gtk+" version="1.0">
+  <glade-widget-classes>
+    <glade-widget-class title="Xpd54 Cyberoam Window" name="Xpd54CyberoamWindow" 
+                        generic-name="Xpd54CyberoamWindow" parent="GtkWindow"
+                        icon-name="widget-gtk-window"/>
+  </glade-widget-classes>
+</glade-catalog>
